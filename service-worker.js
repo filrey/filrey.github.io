@@ -14,10 +14,10 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.f6ecea935fb95c0b321bcfb4327c318c.js"
+  "/precache-manifest.fe0badc611367ee79f2dac193f32a2f8.js"
 );
 
-workbox.core.setCacheNameDetails({prefix: "oo-project-v2"});
+workbox.core.setCacheNameDetails({prefix: "instant-insanity-solver"});
 
 /**
  * The workboxSW.precacheAndRoute() method efficiently caches and responds to
