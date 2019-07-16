@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.ba882573ef62a85a553941e308234d95.js"
+  "/precache-manifest.01697a8dcbb7300be8a2e3057cafc3bd.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "instant-insanity-solver"});
